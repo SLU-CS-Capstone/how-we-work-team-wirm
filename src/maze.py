@@ -59,4 +59,5 @@ class Maze:
                     result+='_'
             result+='|\n'
         print(result)
+        return result
 
